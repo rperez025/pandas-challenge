@@ -27,7 +27,7 @@ The script analyzes the district-wide standardized test results and then aggrega
 7. Scores by School Size (by Small (<1000), Medium (1000-2000), Large (2000-5000)
 8. Scores by School Type (by Charter or District type)
 
-View Analysis and Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
+View PyCity School Analysis and code Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
 
 **RESOURCES AND REFERENCES**
 
