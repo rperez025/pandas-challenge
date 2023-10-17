@@ -8,8 +8,8 @@ For this challenge, I created and manipulated Pandas DataFrames to analyze schoo
 The script analyzes the district-wide standardized test results and then aggregates the data to showcase the following:
 
 1. DataFrame that summarizes key metrics about each school:
-* School name
-* School type
+   * School name
+   * School type
 * Total students
 * Total school budget
 * Per student budget
