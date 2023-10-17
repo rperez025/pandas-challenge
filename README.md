@@ -49,16 +49,6 @@ During the challenge I referenced the following to aid in the understanding and 
 * [Pandas Day 02 - Activity 08 - Pandas Sorting](https://www.youtube.com/watch?v=MOy5NZ8331k)
 * [Pandas Day 02 - Activity 09 - Search For The Worst](https://www.youtube.com/watch?v=WLofW8YAKok)
 
+3. I also used the following codes as references for performing my assignment. Specifically, I would review both codes and gain an understanding of their organization and use. I would then incorporate my knowledge and practice from the class activities and instructor videos to write my script for the PyCitySchoolsAnalysis_RP.ipynb.
 
-I used google to search for additional references to further understand the following:
-
-How to access CSV file using OS module
-Understanding the different Python numbers
-Understanding the Python int() Function
-Understanding use of Escape Characters
-Understanding Python next() Function
-Understanding Python list() Function
-I also used the following codes as references for performing my assignment. Specifically, I would review both codes and gain an understanding of their organization. I would then incorporate my knowledge and practice from the class activities, instructor videos, and independent research to write my scripts for both PyBank and PyPoll.
-
-Salllym code - for PyBank
-Salllym code - for PyPoll
+[taranahassan code - for PyCitySchools](https://github.com/taranahassan/School_District_Analysis/blob/main/notebook/PyCitySchools.ipynb)
