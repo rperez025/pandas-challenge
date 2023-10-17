@@ -44,4 +44,5 @@ During the challenge I referenced the following to aid in the understanding and 
 * [Pandas Day 02 - Activity 09 - Search For The Worst](https://www.youtube.com/watch?v=WLofW8YAKok)
 
 3. I also used the following code as reference for performing my assignment. Specifically, I would review both codes and gain an understanding of their organization and use. I would then incorporate my knowledge and practice from the class activities and instructor videos to write my script for the PyCitySchoolsAnalysis_RP.ipynb.
-     [taranahassan code - for PyCitySchools](https://github.com/taranahassan/School_District_Analysis/blob/main/notebook/PyCitySchools.ipynb)
+  
+   [taranahassan code - for PyCitySchools](https://github.com/taranahassan/School_District_Analysis/blob/main/notebook/PyCitySchools.ipynb)
