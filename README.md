@@ -3,7 +3,7 @@
 
 **PyCitySchool**
 
-For this challenge, I created and manipulated Pandas DataFrames to analyze school and standardized test data using the datasets in schools__complete.csv and students_complete.csv.
+For this challenge, I created and manipulated Pandas DataFrames to analyze school and standardized test data using the datasets in [schools__complete.csv](https://github.com/rperez025/pandas-challenge/blob/main/schools_complete.csv) and [students_complete.csv](https://github.com/rperez025/pandas-challenge/blob/main/students_complete.csv).
 
 The script analyzes the district-wide standardized test results and then aggregates the data to showcase the following:
 
