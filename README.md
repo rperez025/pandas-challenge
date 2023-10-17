@@ -33,7 +33,7 @@ The script analyzes the district-wide standardized test results and then aggrega
 
 8. Scores by School Type (by Charter or District type)
 
-View Output Results: LINK
+View Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
 
 RESOURCES AND REFERENCES
 
