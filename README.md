@@ -1,7 +1,7 @@
-# pandas-challenge
-Module 4 - Data analysis with Pandas
+## pandas-challenge
+#Module 4 - Data analysis with Pandas
 
-PyCitySchool
+**PyCitySchool**
 
 For this challenge, I created and manipulated Pandas DataFrames to analyze school and standardized test data using the datasets in schools__complete.csv and students_complete.csv.
 
@@ -35,7 +35,7 @@ The script analyzes the district-wide standardized test results and then aggrega
 
 View Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
 
-RESOURCES AND REFERENCES
+**RESOURCES AND REFERENCES**
 
 During the challenge I referenced the following to aid in the understanding and completion of the assignment:
 
