@@ -42,12 +42,12 @@ During the challenge I referenced the following to aid in the understanding and 
 1. Reviewed all the class activites in GitLab Working Folder - reperforming a majority of them
 
 2. Watched the following Dr. A instructor videos:
-* [Pandas Day 01 Activity #09 - Reading and Writing CSV Files -](https://www.youtube.com/watch?v=a2sqH4pWzxI)
-* [Pandas Day 01 - Activity #10 and #11- Comic Books (Part 1 and 2) - ](https://www.youtube.com/watch?v=f1LhPnlvHFc)
-* [Pandas Day 02 - Activity 06 - GroupBy Demo - ](https://www.youtube.com/watch?v=tETt55I-VHY)
-* [Pandas Day 02 - Activity 07 - Exploring Census Data - ](https://www.youtube.com/watch?v=0zRMuPKyJBw)
-* [Pandas Day 02 - Activity 08 - Pandas Sorting - ](https://www.youtube.com/watch?v=MOy5NZ8331k)
-* [Pandas Day 02 - Activity 09 - Search For The Worst - ](https://www.youtube.com/watch?v=WLofW8YAKok)
+* [Pandas Day 01 Activity #09 - Reading and Writing CSV Files](https://www.youtube.com/watch?v=a2sqH4pWzxI)
+* [Pandas Day 01 - Activity #10 and #11- Comic Books (Part 1 and 2)](https://www.youtube.com/watch?v=f1LhPnlvHFc)
+* [Pandas Day 02 - Activity 06 - GroupBy Demo](https://www.youtube.com/watch?v=tETt55I-VHY)
+* [Pandas Day 02 - Activity 07 - Exploring Census Data](https://www.youtube.com/watch?v=0zRMuPKyJBw)
+* [Pandas Day 02 - Activity 08 - Pandas Sorting](https://www.youtube.com/watch?v=MOy5NZ8331k)
+* [Pandas Day 02 - Activity 09 - Search For The Worst](https://www.youtube.com/watch?v=WLofW8YAKok)
 
 
 I used google to search for additional references to further understand the following:
