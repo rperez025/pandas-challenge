@@ -5,9 +5,19 @@
 
 For this challenge, I created and manipulated Pandas DataFrames to analyze school and standardized test data using the datasets in [schools__complete.csv](https://github.com/rperez025/pandas-challenge/blob/main/schools_complete.csv) and [students_complete.csv](https://github.com/rperez025/pandas-challenge/blob/main/students_complete.csv).
 
-The script analyzes the district-wide standardized test results and then aggregates the data to showcase the following:
+The script analyzes the district- and school-wide information and standardized test results and then aggregates the data to showcase the following:
 
-1. DataFrame that summarizes key metrics about each school:
+1. DISTRICT SUMMARY - DataFrame that summarizes key metrics about:
+   * Total number of unique schools
+   * Total students
+   * Total budget
+   * Average math score
+   * Average reading score
+   * % passing math (the percentage of students who passed math)
+   * % passing reading (the percentage of students who passed reading)
+   * % overall passing (the percentage of students who passed math AND reading)School name
+
+2. SCHOOL SUMMARY - DataFrame that summarizes key metrics about each school:
    * School name
    * School type
    * Total students
@@ -19,13 +29,13 @@ The script analyzes the district-wide standardized test results and then aggrega
    * % passing reading (the percentage of students who passed reading)
    * % overall passing (the percentage of students who passed math AND reading)
 
-2. Highest-Performing Schools (by % Overall Passing)
-3. Lowest-Performing Schools (by % Overall Passing)
-4. Math Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
-5. Reading Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
-6. Scores by School Spending (by bins: <$585, $585-630, $630-645, $645-680]
-7. Scores by School Size (by Small (<1000), Medium (1000-2000), Large (2000-5000)
-8. Scores by School Type (by Charter or District type)
+3. Highest-Performing Schools (by % Overall Passing)
+4. Lowest-Performing Schools (by % Overall Passing)
+5. Math Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
+6. Reading Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
+7. Scores by School Spending (by bins: <$585, $585-630, $630-645, $645-680]
+8. Scores by School Size (by Small (<1000), Medium (1000-2000), Large (2000-5000)
+9. Scores by School Type (by Charter or District type)
 
 View PyCity School Analysis and code Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
 
