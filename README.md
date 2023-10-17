@@ -10,27 +10,21 @@ The script analyzes the district-wide standardized test results and then aggrega
 1. DataFrame that summarizes key metrics about each school:
    * School name
    * School type
-* Total students
-* Total school budget
-* Per student budget
-* Average math score
-* Average reading score
-* % passing math (the percentage of students who passed math)
-* % passing reading (the percentage of students who passed reading)
-* % overall passing (the percentage of students who passed math AND reading)
+   * Total students
+   * Total school budget
+   * Per student budget
+   * Average math score
+   * Average reading score
+   * % passing math (the percentage of students who passed math)
+   * % passing reading (the percentage of students who passed reading)
+   * % overall passing (the percentage of students who passed math AND reading)
 
 2. Highest-Performing Schools (by % Overall Passing)
-
 3. Lowest-Performing Schools (by % Overall Passing)
-
 4. Math Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
-
 5. Reading Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
-
 6. Scores by School Spending (by bins: <$585, $585-630, $630-645, $645-680]
-
 7. Scores by School Size (by Small (<1000), Medium (1000-2000), Large (2000-5000)
-
 8. Scores by School Type (by Charter or District type)
 
 View Analysis and Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
