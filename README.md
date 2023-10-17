@@ -1,31 +1,39 @@
 # pandas-challenge
 Module 4 - Data analysis with Pandas
 
-PyBank
+PyCitySchool
 
-For this challenge, I created a Python script to analyze the financial records of my company using the dataset in budget_data_(RP).csv, which included a column for "Date" and "Profit/Losses".
+For this challenge, I created and manipulated Pandas DataFrames to analyze school and standardized test data using the datasets in schools__complete.csv and students_complete.csv.
 
-The script analyzes the records and calculated the following:
+The script analyzes the district-wide standardized test results and then aggregates the data to showcase the following:
 
-Total number of months included in the dataset
-Net total amount of "Profit/Losses" over the entire period
-Changes in "Profit/Losses" over the entire period, and the average of those changes
-Greatest increase in profits (date and amount) over the entire period
-Greatest decrease in profits (date and amount) over the entire period
-View Financial Analysis (LINK)
+1. DataFrame that summarizes key metrics about each school:
+* School name
+* School type
+* Total students
+* Total school budget
+* Per student budget
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading)
 
-PyPoll
+2. Highest-Performing Schools (by % Overall Passing)
 
-For this challenge, I created a Python script to analyze the voting data using the dataset in election_data_(RP).csv, which included three columns for "Voter ID", "County", and "Candidate".
+3. Lowest-Performing Schools (by % Overall Passing)
 
-The script analyzes the votes and calculated the following:
+4. Math Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
 
-Total number of votes cast
-Complete list of candidates who received votes
-Percentage of votes each candidate won
-Total number of votes each candidate won
-Winner of the election based on popular vote
-View Election Results Analysis (LINK)
+5. Reading Scores by Grade (i.e., 9th, 10th, 11th, 12th grades)
+
+6. Scores by School Spending (by bins: <$585, $585-630, $630-645, $645-680]
+
+7. Scores by School Size (by Small (<1000), Medium (1000-2000), Large (2000-5000)
+
+8. Scores by School Type (by Charter or District type)
+
+View Output Results: LINK
 
 RESOURCES AND REFERENCES
 
