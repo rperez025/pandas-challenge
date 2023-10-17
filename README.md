@@ -33,7 +33,7 @@ The script analyzes the district-wide standardized test results and then aggrega
 
 8. Scores by School Type (by Charter or District type)
 
-View Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
+View Analysis and Output Results for the above at: [LINK](https://github.com/rperez025/pandas-challenge/blob/main/PyCitySchools/PyCitySchoolsAnalysis_RP.ipynb)
 
 **RESOURCES AND REFERENCES**
 
@@ -51,4 +51,4 @@ During the challenge I referenced the following to aid in the understanding and 
 
 3. I also used the following code as reference for performing my assignment. Specifically, I would review both codes and gain an understanding of their organization and use. I would then incorporate my knowledge and practice from the class activities and instructor videos to write my script for the PyCitySchoolsAnalysis_RP.ipynb.
 
-[taranahassan code - for PyCitySchools](https://github.com/taranahassan/School_District_Analysis/blob/main/notebook/PyCitySchools.ipynb)
+  [taranahassan code - for PyCitySchools](https://github.com/taranahassan/School_District_Analysis/blob/main/notebook/PyCitySchools.ipynb)
